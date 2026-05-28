@@ -13,7 +13,7 @@ Customer churn analysis and business reporting project focused on customer reten
 
 ## Executive KPI Summary
 
-![Executive KPI Summary](Dashboard_Screenshots/Executive KPI SUMMARY.png)
+![Executive_KPI_Summary](Dashboard_Screenshots/Executive_KPI_SUMMARY.png)
 
 ### Key Insights
 - Analyzed 200K+ customer records to monitor churn trends and customer retention performance.
@@ -25,7 +25,7 @@ Customer churn analysis and business reporting project focused on customer reten
 
 ## Operational Friction & Risk Analysis
 
-![Operational Friction & Risk](Dashboard_Screenshots/Operational Fiction & Risk.png)
+![Operational_Friction_Risk](Dashboard_Screenshots/Operational_Friction_Risk.png)
 
 ### Key Insights
 - Customers with high support ticket activity showed significantly higher churn probability.
@@ -37,7 +37,7 @@ Customer churn analysis and business reporting project focused on customer reten
 
 ## Revenue & Customer Segment Insights
 
-![Revenue Insights](Dashboard_Screenshots/Marketing Proactive Outreach.png)
+![Revenue Insights](Dashboard_Screenshots/Revenue_Insights.png)
 
 ### Key Insights
 - Major metropolitan cities contributed the highest revenue share.
